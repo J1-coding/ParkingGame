@@ -1,0 +1,11 @@
+Model Information:
+* title:	British compact car - Low poly model
+* source:	https://sketchfab.com/3d-models/british-compact-car-low-poly-model-f1e9c43c61bb492a9b15d84f9a16c0f7
+* author:	Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "British compact car - Low poly model" (https://sketchfab.com/3d-models/british-compact-car-low-poly-model-f1e9c43c61bb492a9b15d84f9a16c0f7) by Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
